@@ -1,4 +1,4 @@
-# How to deal with unresponsive SME? 6 simple yet powerful ways to make people share their knowledge with you?
+# How to deal with unresponsive SME? 6 simple solutions
 
 **Glossary:**
 
