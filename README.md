@@ -1,16 +1,21 @@
-# How to deal with unresponsive SME? 6 simple yet powerful ways to make people share their knowledge with you
+# How to deal with unresponsive SME? 6 simple yet powerful ways to make people share their knowledge with you?
 
-**According to the Cambridge Dictionary, being unresponsive means not reacting or answering, or not reacting or answering satisfactorily. Unresponsiveness is definitely one of the most painful elements that hinders the effective and meaningful dialogue between people, departments or organizations. So how to deal at work with a subject matter expert (SME) that is rather unresponsive? Thankfully there are some ways that can melt the most icy, unresponsive heart of (probably) any SME.**
+**Glossary:**
 
-A subject matter expert (SME) is an individual who has a deep understanding and expertise in a specific area. SMEs are recognized for their comprehensive knowledge, skills, and experience in a particular subject. They are definitely precious colleagues and mentors at work. SMEs play a crucial role in various areas, including business, education, technology, science, and more. They may be professionals, researchers, practitioners, or academics who have dedicated a significant amount of time and effort to mastering their chosen area.
+- Unresponsive (adjective): (noun: unresponsiveness) not reacting or answering, or not reacting or answering satisfactorily.
+- Subject matter expert (noun): an individual who has a deep understanding and expertise in a specific area.
 
-SMEs are instrumental in transferring knowledge within their organizations and may also serve as trainers or mentors to help others (e.g. technical writers) develop expertise in the same domain. What if a given SME is difficult to cooperate with?
+**Meaningful dialogue between people is difficult when people are unresponsive. How to deal at work with an unresponsive subject matter expert? Here are some tips on how to deal with unresponsive subject matter expert.**
 
-## Introduce yourself and give some context of your activity in a company
+A subject matter expert (SME) is an individual who has a deep understanding and expertise in a specific area. SMEs are recognized for their comprehensive knowledge, skills, and experience in a particular subject. They are precious colleagues and mentors at work. SMEs play a crucial role in various areas, including business, education, technology, and science. They may be professionals, researchers, practitioners, or academics.
 
-Let’s say, there's an SME, who–from your perspective– is not very eager to answer your questions. Why is it so? Obviously, this person can be simply busy at work and even with the most genuine approach is simply not able to find time for you very soon. They can be sick, having a hard time or simply forget about your request from the past. But these things don’t last ad infinitum and most people after a period of absence or unavailability go back to their work and find time also for answering questions to other coworkers. But this is theory and real-life scenarios can be completely different. Why do some SMEs keep not answering your questions even if you regularly ping them on Slack or by mail?
+SMEs transfer knowledge within their organizations and may also serve as trainers or mentors to help others (e.g. technical writers) develop expertise in the same domain. What if a subject matter expert is difficult to cooperate with?
 
-It’s worth remembering that there are experts, whose reasons to be unresponsive can be whole different than just aiming to make your life harder than it is. The SME can be unresponsive because they don’t understand your role and why you’re actually asking them your questions. So before going to the point and shooting with your questions, take time to tell the SME who you are and why you are trying to get info from them. Explain why it is important for your assignment and the company and what’s the place and meaning of your assignment in the grand scheme of things. From the point of view of an SME it's way more sensible (and interesting!) to give information to someone they (at least: more or less) know and have an idea of the place of this person in the entire organization. If you just write “Hey, answer my questions listed below, cheers!”, then don’t expect that any SME will be motivated enough to actually find time for you.
+## Introduce yourself. Give some context of your activity in a company
+
+Why a subject matter expert is unresponsive? This person can be busy at work and not able to find time for you very soon. They can be sick, or simply forget about your request. But these things don’t last forever. What to do if the subject matter expert is still unresponsive?
+
+Take time to tell the subject matter expert who you are. Tell why you are asking some questions. Without it the subject matter expert can be unresponsive because they don’t understand your role. The subject matter expert may not understand why do you ask them questions. As the result, it will be easier for your subject matter expert to give you good answers.
 
 ## Do your homework and don’t waste someone’s time
 
