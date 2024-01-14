@@ -6,7 +6,7 @@ A subject matter expert (SME) is an individual who has a deep understanding and 
 
 SMEs are instrumental in transferring knowledge within their organizations and may also serve as trainers or mentors to help others (e.g. technical writers) develop expertise in the same domain. What if a given SME is difficult to cooperate with?
 
-## Introduce yourself and give some context of your activity in a company
+## Introduce yourself and give some context of your activity in a company TEST TEST
 
 Let’s say, there's an SME, who–from your perspective– is not very eager to answer your questions. Why is it so? Obviously, this person can be simply busy at work and even with the most genuine approach is simply not able to find time for you very soon. They can be sick, having a hard time or simply forget about your request from the past. But these things don’t last ad infinitum and most people after a period of absence or unavailability go back to their work and find time also for answering questions to other coworkers. But this is theory and real-life scenarios can be completely different. Why do some SMEs keep not answering your questions even if you regularly ping them on Slack or by mail?
 
