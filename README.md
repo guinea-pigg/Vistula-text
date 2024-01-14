@@ -6,39 +6,34 @@
 - Subject matter expert (noun): an individual who has a deep understanding and expertise in a specific area.
 - Wh-question: a type of question that begins with a word starting with "wh," such as who, what, when, where, why, or how.
 
-**Meaningful dialogue between people is difficult when people are unresponsive. How to deal at work with an unresponsive subject matter expert? Here are some tips on how to deal with unresponsive subject matter expert.**
-
-A subject matter expert is an individual who has a deep understanding and expertise in a specific area. Subject matter experts are recognized for their comprehensive knowledge, skills, and experience. They are precious colleagues and mentors at work. Subject matter experts play a crucial role in various areas, including business, education, technology, and science. They may be professionals, researchers, practitioners, or academics.
+**How to deal at work with an unresponsive subject matter expert? Here are some tips on how to deal with unresponsive subject matter expert.**
 
 Subject matter experts share knowledge and may serve as trainers or mentors to help others (for example technical writers). What to do if a subject matter expert is difficult to cooperate with?
 
-## Introduce yourself to the subject matter expert
-
-Why is a subject matter expert unresponsive? They can be busy at work or sick. But these things don’t last forever. What to do if the subject matter expert is still unresponsive?
-
-Take time to tell the subject matter expert who you are. Tell why you are asking some questions. Without it the subject matter expert can be unresponsive because they don’t understand your role. The subject matter expert may not understand why do you ask them questions.
-
-As the result, it will be easier for your subject matter expert to give you good answers.
-
 ## Prepare yourself to the conversation with the subject matter expert
 
-Prepare yourself to the conversation. Get information about the area of expertise of the subject matter expert The subject matter expert, who normally is not so responsive, may appreciate your effort. As the result they can be more open to talk to you. Maybe it can also be a starting point for a nice relationship at work?
+Prepare yourself to the conversation. Get information about the area of expertise of the subject matter expert. As the result they can be more open to talk to you.
 
-## Means of communication. Stay flexible
+## Introduce yourself to the subject matter expert
 
-Discover what type of communication your subject matter expert prefers. Some of them prefer a friendly face-to-face conversation. Other subject matter experts prefer to answer the questions in a written form or during a phone call. Be flexible and adjust yourself to your subject matter expert. The more comfortable they feel, the more (and better) information you will receive.
+Tell the subject matter expert who you are. Explain the subject matter expert why you are asking certain questions. Without it the subject matter expert can be unresponsive because they don’t understand your role.
+
+## Be open for different types of communication
+
+Choose the best form of communication with the subject matter expert. Discover what type of communication your subject matter expert prefers: a face-to-face conversation, written form or a phone call. The more comfortable they feel, the more (and better) information you will receive.
 
 ## Ask questions that can give you the best answers
 
-If possible, ask more open questions (so called wh-questions) to those, on which your SME can answer only yes or no. Asking questions in a proper way is the method to encourage people to share their precious knowledge with you. You can know a lot about the field of expertise of your SME but sometimes without questions that are able to fish the most juicy information the results of your interview will be bland. On the other hand, it can be that your SME, once not very unresponsive, but being forced to sit with you and answer your questions, will be answering not only your questions but also talking about lots of things that may not be fully relevant for your case. Take into account that it may be like this, but doesn’t have to be–be diligent enough to note or record everything they say. If you don’t use it in your final material, it’s a great chance to learn new things. And obviously, time for estimation of the gathered material will come later, when you will be with your notes on your own.
+Ask open questions (so called wh-questions) to the subject matter expert. Note or record everything the subject matter expert says. Later you will have time to estimate the material.
 
-A bonus thing: don’t hesitate to ask the SME to clarify the mental shortcuts! Remember that your SME, not even being aware of it, can also deal with their curse of knowledge. It’s your responsibility to understand what they’re talking to you about in order to be able to later explain that to your readers. If SME doesn’t like it, then let it be–make sure you know the topic as much as it’s possible but ask for clarification, because this is the clou of your interview.
+**Remember**: don’t be afraid to ask the SME to explain difficult terms!
 
-## Involve their manager and document all the communication with SME
+## Involve the manager of the subject matter expert
 
-Emails and messages sent to your coworkers are a type of documentation. It’s good to be aware of it and, when needed, be ready to have it handy. If your SME will not have time for you for an extremely long time, you can always ask for support from their manager. Or, which doesn’t hurt either, you can start everything by sending an email with a request for a meeting or a talk to the SME and their manager at the same time.
+Document all the communication with the subject matter expert. If the subject matter expert does not have time for you, ask their manager for support.
 
-## Be kind but persistent and think in perspective
+## Be kind but persistent. Think about the future
 
-No matter what you do and where you are, the very base of interpersonal communication is to keep being polite to your interlocutor. Sounds cliche but it can be a truly difficult task for those who are not pleased to work with a given SME due to different reasons. At the same time being polite doesn’t mean to agree on everything SME proposes or let them disrespect you. Stay positive, stay assertive and remember: sooner or later kindness and emotional maturity always pays off. Always give people the benefit of the doubt and don’t assume that your SME is unresponsive because it is evil or dislikes you.
-After all, dealing with an unresponsive SME can be not only a challenge to boost your creativity but also to train your interpersonal skills. These are priceless treasures no matter where you work.
+Be polite to the subject matter expert no matter how difficult it is. Stay positive and assertive.
+
+Dealing with an unresponsive subject matter expert is not only a challenge but also a chance to train your skills. These are priceless things no matter where you work.
