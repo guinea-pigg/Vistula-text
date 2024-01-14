@@ -4,30 +4,33 @@
 
 - Unresponsive (adjective): (noun: unresponsiveness) not reacting or answering, or not reacting or answering satisfactorily.
 - Subject matter expert (noun): an individual who has a deep understanding and expertise in a specific area.
+- Wh-question: a type of question that begins with a word starting with "wh," such as who, what, when, where, why, or how.
 
 **Meaningful dialogue between people is difficult when people are unresponsive. How to deal at work with an unresponsive subject matter expert? Here are some tips on how to deal with unresponsive subject matter expert.**
 
-A subject matter expert (SME) is an individual who has a deep understanding and expertise in a specific area. SMEs are recognized for their comprehensive knowledge, skills, and experience in a particular subject. They are precious colleagues and mentors at work. SMEs play a crucial role in various areas, including business, education, technology, and science. They may be professionals, researchers, practitioners, or academics.
+A subject matter expert is an individual who has a deep understanding and expertise in a specific area. Subject matter experts are recognized for their comprehensive knowledge, skills, and experience. They are precious colleagues and mentors at work. Subject matter experts play a crucial role in various areas, including business, education, technology, and science. They may be professionals, researchers, practitioners, or academics.
 
-SMEs transfer knowledge within their organizations and may also serve as trainers or mentors to help others (e.g. technical writers) develop expertise in the same domain. What if a subject matter expert is difficult to cooperate with?
+Subject matter experts share knowledge and may serve as trainers or mentors to help others (for example technical writers). What to do if a subject matter expert is difficult to cooperate with?
 
-## Introduce yourself. Give some context of your activity in a company
+## Introduce yourself to the subject matter expert
 
-Why a subject matter expert is unresponsive? This person can be busy at work and not able to find time for you very soon. They can be sick, or simply forget about your request. But these things don’t last forever. What to do if the subject matter expert is still unresponsive?
+Why is a subject matter expert unresponsive? They can be busy at work or sick. But these things don’t last forever. What to do if the subject matter expert is still unresponsive?
 
-Take time to tell the subject matter expert who you are. Tell why you are asking some questions. Without it the subject matter expert can be unresponsive because they don’t understand your role. The subject matter expert may not understand why do you ask them questions. As the result, it will be easier for your subject matter expert to give you good answers.
+Take time to tell the subject matter expert who you are. Tell why you are asking some questions. Without it the subject matter expert can be unresponsive because they don’t understand your role. The subject matter expert may not understand why do you ask them questions.
 
-## Do your homework and don’t waste someone’s time
+As the result, it will be easier for your subject matter expert to give you good answers.
 
-The second step that can’t be forgotten in order to handle an unresponsive SME is to take your time to get acquainted with their field of expertise as much as possible. Obviously no one tells you to take a whole course on a very hermetic topic in order to impress your interlocutor, but having a decent base of knowledge in order to ask meaningful questions is an ideal scenario. Let’s be honest: no one would want to ask a question to SME that would indicate you’re a total ignorant. On the other hand, your SME, who normally was not so responsive, may appreciate your effort in understanding the broad sense of their field and will be way more open to talk to you. Maybe it can also be a starting point of creating a nice relationship at work?
+## Prepare yourself to the conversation with the subject matter expert
+
+Prepare yourself to the conversation. Get information about the area of expertise of the subject matter expert The subject matter expert, who normally is not so responsive, may appreciate your effort. As the result they can be more open to talk to you. Maybe it can also be a starting point for a nice relationship at work?
 
 ## Means of communication. Stay flexible
 
-Based on your interpersonal skills you should discover what type of communication your SME prefers. Some of them are great at passing the knowledge during a friendly face-to face conversation, other ones prefer to answer the questions in a written form or during a phone call, etc. Be flexible and adjust yourself to your SME–the more comfortable they feel, the more (and better) information you’re likely to receive. The hard truth is that such an interview is about them and not you. You’re heavily responsible for the final outcome of such an exchange of knowledge and you should be ready to work also in conditions that are not fully comfortable for you but which can help open up your interlocutor.
+Discover what type of communication your subject matter expert prefers. Some of them prefer a friendly face-to-face conversation. Other subject matter experts prefer to answer the questions in a written form or during a phone call. Be flexible and adjust yourself to your subject matter expert. The more comfortable they feel, the more (and better) information you will receive.
 
-## Ask questions that can give you interesting and meaningful answers
+## Ask questions that can give you the best answers
 
-Talking about questions, there’s a rule that you should always remember about: if possible, ask more open questions (so called wh-questions) to those, on which your SME can answer only yes or no. Asking questions in a proper way is the method to encourage people to share their precious knowledge with you. You can know a lot about the field of expertise of your SME but sometimes without questions that are able to fish the most juicy information the results of your interview will be bland. On the other hand, it can be that your SME, once not very unresponsive, but being forced to sit with you and answer your questions, will be answering not only your questions but also talking about lots of things that may not be fully relevant for your case. Take into account that it may be like this, but doesn’t have to be–be diligent enough to note or record everything they say. If you don’t use it in your final material, it’s a great chance to learn new things. And obviously, time for estimation of the gathered material will come later, when you will be with your notes on your own.
+If possible, ask more open questions (so called wh-questions) to those, on which your SME can answer only yes or no. Asking questions in a proper way is the method to encourage people to share their precious knowledge with you. You can know a lot about the field of expertise of your SME but sometimes without questions that are able to fish the most juicy information the results of your interview will be bland. On the other hand, it can be that your SME, once not very unresponsive, but being forced to sit with you and answer your questions, will be answering not only your questions but also talking about lots of things that may not be fully relevant for your case. Take into account that it may be like this, but doesn’t have to be–be diligent enough to note or record everything they say. If you don’t use it in your final material, it’s a great chance to learn new things. And obviously, time for estimation of the gathered material will come later, when you will be with your notes on your own.
 
 A bonus thing: don’t hesitate to ask the SME to clarify the mental shortcuts! Remember that your SME, not even being aware of it, can also deal with their curse of knowledge. It’s your responsibility to understand what they’re talking to you about in order to be able to later explain that to your readers. If SME doesn’t like it, then let it be–make sure you know the topic as much as it’s possible but ask for clarification, because this is the clou of your interview.
 
