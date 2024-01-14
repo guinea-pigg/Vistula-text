@@ -2,8 +2,8 @@
 
 **Glossary:**
 
-- Unresponsive (adjective): (noun: unresponsiveness) not reacting or answering, or not reacting or answering satisfactorily.
-- Subject matter expert (noun): an individual who has a deep understanding and expertise in a specific area.
+- Unresponsive: not reacting or answering, or not reacting or answering satisfactorily.
+- Subject matter expert: an individual who has a deep understanding and expertise in a specific area.
 - Wh-question: a type of question that begins with a word starting with "wh," such as who, what, when, where, why, or how.
 
 **How to deal at work with an unresponsive subject matter expert? Here are some tips on how to deal with unresponsive subject matter expert.**
