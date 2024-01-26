@@ -1,4 +1,4 @@
-# How to deal with unresponsive SME? 6 simple solutions
+# How to deal with unresponsive SME? 6 specific solutions
 
 **Glossary:**
 
